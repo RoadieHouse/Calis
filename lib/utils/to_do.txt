@@ -1,0 +1,2 @@
+- when using the front facing camera, the drawn overlay is upside down, needs to be rotated
+- imgsize anpassen bei yolo model
