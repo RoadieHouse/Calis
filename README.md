@@ -6,7 +6,8 @@ ___
 
 Calis is an app that acts as a digital personal trainer. Through computer vision and individualized training plans Calis offers an interactive training experience that helps users learn correct execution and biomechanical fundamentals of bodyweight exercises (*[Calisthenics](https://en.wikipedia.org/wiki/Calisthenics)*). Our approach combines detailed exercise instructions with real-time feedback to ensure effective and injury-free training. In addition, we plan to use sports psychology methods like imagery for skill acquisition and gamification elements to increase motivation and training consistency. In the long term, we are aiming to implement augmented reality to further improve the user experience. We are currently developing a prototype that enables precise pose recognition and are working on a user-friendly application. Calis strives to redefine digital personal training by combining cutting-edge technology with science-based methods to provide a personalized and effective training solution.
 
->#### Current state:    
->>Record pose estimation data (currently with mediapipe) through the front or back-facing camera of the smartphone, see the pose data in real-time superimposed on your movements and export the data in the desired format as a csv to your google drive.
+>#### Current state:
+>
+>> -Record pose estimation data (currently with mediapipe) through the front or back-facing camera of the smartphone, see the pose data in real-time superimposed on your movements and export the data in the desired format as a csv to your google drive.
 
 
