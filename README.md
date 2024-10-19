@@ -8,6 +8,6 @@ Calis is an app that acts as a digital personal trainer. Through computer vision
 
 >#### Current state:
 >
->> -Record pose estimation data (currently with mediapipe) through the front or back-facing camera of the smartphone, see the pose data in real-time superimposed on your movements and export the data in the desired format as a csv to your google drive.
+> -Record pose estimation data (currently with mediapipe) through the front or back-facing camera of the smartphone, see the pose data in real-time superimposed on your movements and export the data in the desired format as a csv to your google drive.
 
 
